@@ -1,0 +1,2 @@
+# Visual Studio artifacts 
+[Bb]in/  [Oo]bj/  *.pdb  *.user  *.suo 
